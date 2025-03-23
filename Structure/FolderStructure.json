@@ -1,0 +1,69 @@
+{
+    "folders": [
+        "Art",
+
+        "Art/Animations",
+        "Art/Animations/Characters",
+        "Art/Animations/Entities",
+        "Art/Animations/Environment",
+
+        "Art/Sprites",
+        "Art/Sprites/Characters",
+        "Art/Sprites/Entities",
+        "Art/Sprites/Environment",
+        "Art/Sprites/Environment/Interactables",
+
+        "Art/Tilemaps",
+        "Art/Tilemaps/Tiles",
+        "Art/Tilemaps/TilePalettes",
+
+        "Art/UI",
+        "Art/UI/Sprites",
+        "Art/UI/Fonts",
+
+
+        "Audio",
+        "Audio/BGM",
+        "Audio/SFX",
+
+        "Story",
+        "Story/Characters",
+        "Story/NPCs",
+        "Story/Environment",
+
+        "Materials",
+        "Materials/Characters",
+        "Materials/Entities",
+        "Materials/Environment",
+        "Materials/Environment/Interactables",
+
+        "Prefabs",
+        "Prefabs/Managers",
+        "Prefabs/UI",
+        "Prefabs/Characters",
+        "Prefabs/Entities",
+        "Prefabs/Environment",
+        "Prefabs/Environment/Interactables",
+
+        "Prototypes",
+
+        "Resources",
+
+        "Scenes",
+
+        "Scripts",
+        "Scripts/Characters",
+        "Scripts/Entities",
+        "Scripts/Managers", 
+        "Scripts/Gameplay",
+        "Scripts/UI",
+        "Scripts/Utilities",
+        "Scripts/Tests",
+
+        "Settings",
+
+        "Shaders",
+
+        "ThirdParty"
+    ]
+}
