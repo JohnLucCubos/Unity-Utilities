@@ -8,7 +8,7 @@ namespace MyUnity.Utilities
     public class FolderStructureGenerator : EditorWindow
     {
         static TextField userInput;
-        [SerializeField] string defaultLocation = "\\Unity-Utilities\\Scripts\\Structure\\FolderStructure";
+        [SerializeField] string defaultLocation = "Unity-Utilities\\Structure\\FolderStructure";
         [MenuItem("Tools/Folder Structure Generator")]
         public static void ShowWindow()
         {
@@ -26,7 +26,7 @@ namespace MyUnity.Utilities
             VisualElement root = rootVisualElement;
             Box box = new Box();    // Used to separate each element into a block
             // VisualElements objects can contain other VisualElement following a tree hierarchy
-            box.Add(new Label("Write the name of the json file:"));
+            box.Add(new Label("json file location:"));
             userInput = new TextField();
             userInput.value = defaultLocation;
             userInput.label = "json";
